@@ -39,19 +39,37 @@
 A modern ecommerce mobile application built with Flutter.
 
 #### ✨ Features
+^ First project
 - Beautiful UI Design
 - Product Listings
-- Firebase Integration
 - Responsive Mobile Experience
 
 #### 🧰 Tech Used
-`Flutter` • `Dart` • `Firebase`
+`Flutter` • `Dart` 
 
 #### 🔗 Project Link
 <a href="https://github.com/AbdelhakimAhmed735-coder/mobile_aplication.git">
   Click Here To View Project
 </a>
+the second ---
 
+### 🛒 Grocery App
+
+A modern grocery shopping mobile application built with Flutter.
+
+#### ✨ Features
+- Login & Signup
+- Bottom Navigation Bar
+- Explore Products
+- Favourite Items
+- Profile Screen
+- Clean UI Design
+
+#### 🧰 Tech Used
+`Flutter` `Dart`
+
+#### 🔗 Project Link
+[Click Here To View Project](https://github.com/AbdelhakimAhmed735-coder/flutter_application_4)
 ---
 
 ## 📊 GitHub Stats
